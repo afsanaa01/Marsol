@@ -1,0 +1,24 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.banner{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 438px;
+    padding-bottom: 60px;
+    color: white;
+    background: linear-gradient(0deg, rgba(5, 14, 35, 0.7) 0%, rgba(5, 14, 35, 0) 51.56%, rgba(5, 14, 35, 0) 77.6%, rgba(5, 14, 35, 0.7) 100%), url("/img/nastuh-abootalebi-yWwob8kwOCk-unsplash.jpg");
+    border-radius: 52px 52px 0px 0px;  
+}
+.nav-link{
+    color: #FFFFFF!important;
+}
+.btn-banner{
+    background: #F9FAFD;
+    border-radius: 8px; 
+    width: 190px;
+    height: 60px;
+    border: none;
+    font-size: 16px;
+}
